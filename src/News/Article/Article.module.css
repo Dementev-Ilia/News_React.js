@@ -1,0 +1,21 @@
+.newsAuthor {
+  color: #007ddc;
+  font-weight: 700;
+  color: #352A3B;
+  font-size: 18px;
+}
+
+p {
+  margin: 0 0 5px;
+  font-style: italic;
+}
+
+.newsReadmore {
+}
+
+.bigText {
+}
+
+.none {
+  display: none;
+}

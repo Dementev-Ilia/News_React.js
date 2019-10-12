@@ -1,0 +1,18 @@
+.none {
+    display: none;
+  }
+
+
+.newsCount {
+  margin: 10px 0 0 0;
+  display: block;
+}
+
+.article	{
+  background:	#FFF;
+  border:	1px	solid	rgba(0,	89,	181,	0.82);
+  border-radius: 5px;
+  margin:	15px	auto;
+  box-shadow:	2px	2px	5px	-1px	rgb(0,	81,	202);
+  padding:	10px;
+}

@@ -1,0 +1,30 @@
+.Add	{
+    margin:	0 5px 5px 0;
+    width: 600px;
+    border: 1px dashed rgba(0, 89, 181, 0.82);
+    padding: 15px;
+    border-radius: 5px;
+}
+.addAuthor, .addText, .sendBtn, .addCheckrule {
+    display: block;
+    margin:	0 0 5px 0;
+    padding: 5px;
+    width: 94%;
+    border: 1px solid rgba(113, 129, 145, 0.82);
+    border-radius: 5px;
+}
+.addCheckrule {
+    border: none;
+    font-size: 12px;
+}
+.sendBtn	{
+    box-sizing: content-box;
+    background:	#007DDC;
+    color: white;
+    padding: 10px;
+    font-weight: 700;
+}
+.sendBtn:disabled	{
+    background: #CCC;
+    color: #999;
+}
